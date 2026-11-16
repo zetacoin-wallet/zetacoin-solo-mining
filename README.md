@@ -49,7 +49,7 @@ checksums worth checking before you run a miner for a week.
 
 ---
 
-## Guides in this repository
+## Guides in this repository.
 
 ### Mining
 
